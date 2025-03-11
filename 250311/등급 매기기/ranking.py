@@ -7,6 +7,6 @@ elif N >= 80 :
 elif N >= 70 :
     print('C')
 elif N >= 60 :
-    print('C')
+    print('D')
 else :
     print('F')
